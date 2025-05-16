@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riyazuddin Idrisi</h1>
 <h3 align="center"> 
-I am a Software Developer with over three years of IT professional experience,
-Specializing in Android and iOS app development. 
-My expertise lies in seamlessly integrating advanced features like push notifications, live streaming, and video editing SDKs.
-I bring extensive knowledge in state management (Context API, Redux), cross-platform deep linking, and successful app deployments on Play Store and App Store.
-
+I am a Software Developer with over three years of IT professional experience.
 Proficient in Next.js, React.js, serverless architecture, AWS, and Node.js,
-I have honed my skills in developing robust backend solutions. Over the years, I have actively contributed to UI enhancements, prepared comprehensive reports, and effectively translated business requirements into actionable project modules.
-
+I have honed my skills in developing robust backend solutions. Over the years, I have actively contributed to UI enhancements, 
+prepared comprehensive reports, and effectively translated business requirements into actionable project modules.
 My proactive problem-solving approach, coupled with more than three years of hands-on experience, allows me to deliver cutting-edge software solutions efficiently.
  </h3>
 
@@ -21,7 +17,7 @@ My proactive problem-solving approach, coupled with more than three years of han
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/idrisiriyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrisiriyaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riyaz-idrisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrisiriyaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
